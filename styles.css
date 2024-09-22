@@ -1,0 +1,104 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(2, 6, 12); /* Near dark black */
+    color: rgb(19, 29, 59); /* Dark blue */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+/* Terminal look */
+.terminal {
+    background-color: rgba(19, 29, 59, 0.1);
+    width: 80%;
+    max-width: 1000px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(19, 29, 59, 0.5);
+    animation: floating 5s ease-in-out infinite;
+}
+
+.terminal-header {
+    background-color: rgba(19, 29, 59, 0.2);
+    padding: 10px;
+    border-bottom: 1px solid rgba(19, 29, 59, 0.5);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.red-dot, .yellow-dot, .green-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.red-dot {
+    background-color: red;
+}
+
+.yellow-dot {
+    background-color: yellow;
+}
+
+.green-dot {
+    background-color: green;
+}
+
+.terminal-body {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: rgb(19, 29, 59); /* Foreground color */
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgba(19, 29, 59, 0.5);
+    padding-bottom: 5px;
+}
+
+/* Links */
+a {
+    color: rgb(19, 29, 59);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(19, 29, 59, 0.7);
+    font-size: 0.9rem;
+}
+
+/* 3D Animation */
+@keyframes floating {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
