@@ -164,6 +164,82 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                       href="http://www.github.com/ARMG0268XZ59"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ARMG0268XZ59&bg_color=000000&color=0891b2&line=3382ed&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/ARMG0268XZ59" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMG0268XZ59&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ARMG0268XZ59"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ARMG0268XZ59"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
 
 
+==============================================================================================================================================================================
+
+==============================================================================================================================================================================
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARMG0268XZ59&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARMG0268XZ59&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ARMG0268XZ59/ARMG0268XZ59/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ARMG0268XZ59/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+=========================================
+
+=========================================
+
 
 # - 👋 Hi, I’m Alex Mahdi. Codedname : @ARMG0268XZ59.
 # - 👀 I’m interested in Research, Cyber Security, Technology, Networking, Deveoping, Cloud Computing, Gaming.
