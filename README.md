@@ -270,8 +270,8 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARMG0268XZ59&layout=compact&theme=merko">
   
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena&theme=merko">
+<!-- ✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena&theme=merko"> -->
 
 &nbsp;
   
@@ -593,6 +593,8 @@ Here are some ideas to get you started:
 ===========================================================================================
 
 
+<!---
+
 # - 👋 Hi, I’m Alex Mahdi. Codedname : @ARMG0268XZ59.
 # - 👀 I’m interested in Research, Cyber Security, Technology, Networking, Deveoping, Cloud Computing, Gaming.
 # - 🌱 I’m currently learning Cyber Security and Game Development.
@@ -600,6 +602,8 @@ Here are some ideas to get you started:
 # - 📫 How to reach me : @ARMG2468XZ59 is my Codename and Username everywhere.
 # - 😄 Pronouns: He/Him.
 # - ⚡ Fun fact: I'm also into and Love to Research and learn about Universe, Space, Supernatural, Paranormal, Technology, Science or literally everything..
+
+--->
 
 <!---
 ARMG0268XZ59/ARMG0268XZ59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
