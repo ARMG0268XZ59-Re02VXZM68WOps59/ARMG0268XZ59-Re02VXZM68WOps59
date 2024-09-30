@@ -38,7 +38,7 @@ body {
     align-items: center;
 }
 
-.red-dot, .yellow-dot, .green-dot {
+.red-dot, .blue-dot, .green-dot {
     width: 12px;
     height: 12px;
     border-radius: 50%;
@@ -49,8 +49,8 @@ body {
     background-color: red;
 }
 
-.yellow-dot {
-    background-color: yellow;
+.blue-dot {
+    background-color: blue;
 }
 
 .green-dot {
