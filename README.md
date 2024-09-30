@@ -24,18 +24,28 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 
 <a href="https://www.github.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ARMG0268XZ59?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+
+</p>
                   
+<p align="middle">
+
 <a href="https://www.x.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ARMG0268XZ59?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"  /></a>
+
+</p>
                 
+<p align="middle">
+
 <a href="https://www.twitch.tv/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/ARMG0268XZ59?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 </p>
 
+
 # Skills #
 
 <p align="middle">
+  
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -145,12 +155,14 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+
 </p>
 
                     
 # Socials #
                         
 <p align="middle">
+  
 <a href="https://www.behance.com/ARMG0268XZ59" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
@@ -283,7 +295,9 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture>
-                    </a></p>
+                    </a>
+                    
+</p>
 
 
 # Badges #
