@@ -217,7 +217,11 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                       
 <a href="https://github.com/ARMG0268XZ59" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMG0268XZ59&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ARMG0268XZ59"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ARMG0268XZ59"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
+<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ARMG0268XZ59"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ARMG0268XZ59"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
 
 
 ==============================================================================================================================================================================
@@ -252,10 +256,14 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 
 -->
 
+<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARMG0268XZ59&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARMG0268XZ59&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+-->
 
 ###
 
