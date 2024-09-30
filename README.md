@@ -313,12 +313,12 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ARMG0268XZ59&stroke=
 <b>Top Repositories</b>
 <div width="100%" align="center">
 <a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-</p>
 </div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</p>
 
 <p align="middle">
 <div width="100%" align="center">
-  <a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain" align="left"><img align="left" width="45%" src="https://github-readme- 
+  <a href="https://github.com/ARMG0268XZ59/" "https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain" align="middle"><img align="middle" width="45%" src="https://github-readme- 
      stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59- 
      SpecialsMain&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
