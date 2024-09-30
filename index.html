@@ -5,12 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ARMG0268XZ59's Terminal</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        .hidden { display: none; }
+        .visible { display: block; }
+    </style>
 </head>
 <body>
     <header>
         <h1>Welcome to Alex's Terminal</h1>
         <p>Researcher | Learner | Creator | Gamer | Hacker | Developer</p>
     </header>
+
+    <nav>
+        <ul>
+            <li><a href="#" onclick="showPage('bio')">About Me</a></li>
+            <li><a href="#" onclick="showPage('teespring-shop')">Shop</a></li>
+            <li><a href="#" onclick="showPage('buy-me-a-coffee')">Buy Me a Coffee</a></li>
+            <li><a href="#" onclick="showPage('support-me-with-kofi')">Support Me with Kofi</a></li>
+            <li><a href="#" onclick="showPage('blog')">Blog</a></li>
+        </ul>
+    </nav>
 
     <div class="terminal">
         <div class="terminal-header">
@@ -20,80 +34,72 @@
         </div>
 
         <div class="terminal-body">
-            <section id="bio">
+            <!-- About Me Section -->
+            <section id="bio" class="visible">
                 <h2>About Me</h2>
                 <p>Hello, I'm Alex [ Codename: ARMG0268XZ59 ]. I'm passionate about researching everything from the Universe to Technology, with a special interest in Unix/Linux and Supernatural phenomena.</p>
             </section>
 
-            <section id="social">
-                <h2>Contact & Social Media</h2>
-                <ul>
-                    <li><a href="https://twitter.com/ARMG0268XZ59" target="_blank">Follow me on Twitter</a></li>
-                    <li><a href="https://github.com/ARMG0268XZ59/" target="_blank">Follow me on GitHub</a></li>
-                    <!--
-                    <li><a href="mailto:YOUR_EMAIL">Email Me</a></li>
-                    -->
-                </ul>
-            </section>
-
-            <section id="blog">
-                <h2>Blog</h2>
-                <p>Coming soon: Blog updates on tech, science, and more...</p>
-            </section>
-
-            <!--
-            <section id="shop">
-                <h2>Shop</h2>
-                <ul>
-                    <li><a href="YOUR_PRODUCT_LINK">Product 1</a></li>
-                    <li><a href="YOUR_PRODUCT_LINK">Product 2</a></li>
-                </ul>
-            </section>
-            -->
-
-            <h6>ARMG0268XZ59-Emporium</h6>
-
-            <h6>Alex Mahdi's Megavese Emporium</h6>
-
-            <!--
-            <section id="teespring-shop">
-                <h2>ARMG0268XZ59-Teespring</h2>
-                <iframe style="border-radius:24px;border:none" src="https://embed.creator-spring.com/widget?slug=armg0268xz59-emporium&per=29&currency=&page=1&layout=grid-sm-4&theme=dark" title="ARMG0268XZ59-Emporium Merch store powered by Spring" width="100%" height="960" data-reactroot=""></iframe>
-            </section>
-            -->
-
-            <section id="teespring-shop">
+            <!-- Teespring Merch Section -->
+            <section id="teespring-shop" class="hidden">
                 <h2>ARMG0268XZ59-Teespring</h2>
                 <div class="iframe-container">
-                <iframe src="https://embed.creator-spring.com/widget?slug=armg0268xz59-emporium&per=29&currency=&page=1&layout=grid-sm-4&theme=dark" title="ARMG0268XZ59-Emporium Merch store powered by Spring" data-reactroot=""></iframe>
+                    <iframe style="border-radius:24px;border:none" src="https://embed.creator-spring.com/widget?slug=armg0268xz59-emporium&per=29&currency=&page=1&layout=grid-sm-4&theme=dark" title="ARMG0268XZ59-Emporium Merch store powered by Spring" width="100%" height="960" data-reactroot=""></iframe>
                 </div>
             </section>
 
-            <section id="Buy-me-a-coffee">
+            <!-- Buy Me a Coffee Section -->
+            <section id="buy-me-a-coffee" class="hidden">
                 <h2>Buy me a Coffee</h2>
                 <a href="https://www.buymeacoffee.com/ARMG0268XZ59"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ARMG0268XZ59&button_colour=3264c8&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
                 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="ARMG0268XZ59" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee. :)" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
             </section>
 
-            <section id="Support-me-with-Kofi">
-                <h2>Support me with Kofi</h2>
-                <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#3264C8', 'R6R41443ZM');kofiwidget2.draw();</script> 
+            <!-- Support Me with Ko-fi Section -->
+            <section id="support-me-with-kofi" class="hidden">
+                <h2>Support me with Ko-fi</h2>
+                <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+                <script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#3264C8', 'R6R41443ZM');kofiwidget2.draw();</script>
                 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
                 <script>
-                          kofiWidgetOverlay.draw('armg0268xz59', {
-                            'type': 'floating-chat',
-                            'floating-chat.donateButton.text': 'Support me',
-                            'floating-chat.donateButton.background-color': '#00b9fe',
-                            'floating-chat.donateButton.text-color': '#fff'
-                          });
+                    kofiWidgetOverlay.draw('armg0268xz59', {
+                        'type': 'floating-chat',
+                        'floating-chat.donateButton.text': 'Support me',
+                        'floating-chat.donateButton.background-color': '#00b9fe',
+                        'floating-chat.donateButton.text-color': '#fff'
+                    });
                 </script>
             </section>
-            
+
+            <!-- Blog Section -->
+            <section id="blog" class="hidden">
+                <h2>Blog</h2>
+                <p>Coming soon: Blog updates on tech, science, and more...</p>
+            </section>
         </div>
     </div>
 
     <footer>
         <p>&copy; 2024 Alex Mahdi [ ARMG0268XZ59 ]. All rights reserved.</p>
     </footer>
+
+    <script>
+        function showPage(pageId) {
+            // Hide all sections
+            document.querySelectorAll('section').forEach(section => {
+                section.classList.add('hidden');
+                section.classList.remove('visible');
+            });
+            
+            // Show the selected section
+            document.getElementById(pageId).classList.remove('hidden');
+            document.getElementById(pageId).classList.add('visible');
+        }
+        
+        // Show "About Me" by default when the page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            showPage('bio');
+        });
+    </script>
 </body>
 </html>
