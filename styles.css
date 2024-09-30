@@ -27,6 +27,10 @@ body {
     border-radius: 10px;
     box-shadow: 0px 0px 15px rgba(19, 29, 59, 0.5);
     animation: floating 5s ease-in-out infinite;
+    overflow-y: auto;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .terminal-header {
@@ -58,49 +62,42 @@ body {
 }
 
 .terminal-body {
+    flex-grow: 1;
     padding: 20px;
+    color: white;
+    overflow-y: scroll;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
-section {
-    margin-bottom: 30px;
+.terminal-input {
+    display: flex;
 }
 
-h2 {
-    color: rgb(19, 29, 59); /* Foreground color */
-    margin-bottom: 10px;
-    border-bottom: 2px solid rgba(19, 29, 59, 0.5);
-    padding-bottom: 5px;
+.terminal-input label {
+    color: white;
 }
 
-/* Links */
-a {
-    color: rgb(19, 29, 59);
-    text-decoration: none;
+.terminal-input input {
+    flex-grow: 1;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    outline: none;
+    caret-color: white;
 }
 
-a:hover {
-    text-decoration: underline;
+.terminal-input input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
 }
 
-/* Footer */
-footer {
-    text-align: center;
-    margin-top: 20px;
-    color: rgba(19, 29, 59, 0.7);
-    font-size: 0.9rem;
-}
-
-/* 3D Animation */
-@keyframes floating {
-    0% {
-        transform: translateY(0px);
-    }
-    50% {
-        transform: translateY(-10px);
-    }
-    100% {
-        transform: translateY(0px);
-    }
+.output {
+    white-space: pre-wrap;
+    line-height: 1.5;
+    color: #00ff00;
 }
 
 /* For the iframe container */
@@ -125,4 +122,23 @@ footer {
     overflow-y: auto; /* Allows scrolling within the iframe */
 }
 
+/* 3D Animation */
+@keyframes floating {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
 
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(19, 29, 59, 0.7);
+    font-size: 0.9rem;
+}
