@@ -242,7 +242,7 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 
 <!--### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=131D3B&multiline=true&width=512&height=256&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BARMGI9854WXZ59%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;ARMGI9854WXZ59%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=131D3B&multiline=true&width=512&height=256&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BARMG0268XZ59%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;ARMG0268XZ59%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 
 &nbsp;
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
@@ -264,11 +264,11 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARMGI9854WXZ59&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=ARMGI9854WXZ59&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARMG0268XZ59&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=ARMG0268XZ59&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARMGI9854WXZ59&layout=compact&theme=merko">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARMG0268XZ59&layout=compact&theme=merko">
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena&theme=merko">
@@ -281,13 +281,13 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARMG0268XZ59/ARMG0268XZ59/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARMG0268XZ59/ARMG0268XZ59/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ARMG0268XZ59/ARMG0268XZ59/output/github-contribution-grid-snake.svg" />
 </picture>
   
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARMGI9854WXZ59&theme=chartreuse-dark" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARMG0268XZ59&theme=chartreuse-dark" width="100%">
   
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--<h4 align="right">
@@ -311,18 +311,11 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <!--<p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a> -->
-  
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150">
-<img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-marshmallow.gif" height="150" width="150">
-<img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-maracas.gif" height="150" width="150">
-<img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-jedi.gif" height="150" width="150">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150">
+
   
 <!--🖼️SVG BANNER I LOVE HACKING / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <!-- <p align="center">
-<img src="https://github.com/ARMGI9854WXZ59/ARMGI9854WXZ59/raw/main/.images/banner.svg"  width="600">  -->
+<img src="https://github.com/ARMG0268XZ59/ARMG0268XZ59/raw/main/.images/banner.svg"  width="600">  -->
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <!-- <p align="center">
@@ -397,16 +390,13 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
   
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ARMGI9854WXZ59&color=0E9C47&style=for-the-badge"> -->
+<img src="https://komarev.com/ghpvc/?username=ARMG0268XZ59&color=0E9C47&style=for-the-badge"> -->
   
 
   
 <!--📏LINE-->
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-  
-<!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<!-- <p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"> -->
+
   
 <!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
@@ -418,36 +408,19 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-<!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<!-- <p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"> -->
+
 
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150"> -->
- 
 
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
-<!-- <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko"> -->
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
-
-<!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<!-- <p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"> -->
   
 <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150"> -->
   
-<!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
-<!-- <p align="center">
-<img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/> -->
   
-
 <!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
 <!-- <h2 align="center">
 Join the Word Cloud Board :cloud: :pencil2:
@@ -470,55 +443,6 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--🤔PROJECTSTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
 <p align="center">
 <img src="https://i.ibb.co/QPmHs8r/projects.gif">
-
-<!--🤔ATHENA-->
-<h1 align="center"><a href="https://github.com/Athena-OS/athena-nix">Dive into a new Pentesting Experience with<br>
-Athena OS</a>
-</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
-  <img src="https://badgen.net/github/release/Athena-OS/athena">
-  <a href="https://sourceforge.net/projects/athena-iso/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-iso?style=flat&logo=sourceforge&label=SourceForge" ></a>
-  <a href="https://github.com/Athena-OS/athena/releases"><img alt="Download Athena OS" src="https://img.shields.io/github/downloads/Athena-OS/athena/total?style=flat&logo=github&label=GitHub"></a>
-  <img src="https://badgen.net/github/stars/Athena-OS/athena">
-  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena">
-  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena">
-  <img src="https://img.shields.io/github/license/Athena-OS/athena">
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/athenaos_sec">
-    <img src="https://img.shields.io/badge/Follow%20us%20on%20Instagram-Ya?logo=instagram&logoColor=white&color=%23e95950&style=['for-the-badge']&url=https://www.instagram.com/athenaos_sec">
-    </a>
-  <a href="https://discord.gg/AHXqyJHhGc">
-    <img src="https://img.shields.io/badge/Join%20on%20Discord-Ya?logo=discord&logoColor=white&color=%235865F2&style=['for-the-badge']&url=https://discord.gg/AHXqyJHhGc">
-  </a>
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" data-canonical-src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" width="600" height="496" />
-</p>
-
-<p>
-<h3 align="center">
-  🏅Born for InfoSec Professionals, Bug Bounty Hunters, Passionate Students and Spicy Hackers🏅
-</h3>
-
-<h3 align="center">
-  💞
-  <a href="https://github.com/Athena-OS/athena-nix/releases">
-  Download Athena OS "Nyx" Now
-    </a>
-  💞
-</h3>
-
-<h3 align="center">
-  🎥
-  <a href="https://www.youtube.com/watch?v=4_ZY9Tj4U_8">
-  Spicy Pentesting OS Demo
-    </a>
-   🎥
-</h3>
-</p>
 
 &nbsp;
 
@@ -545,7 +469,7 @@ Athena OS</a>
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ARMGI9854WXZ59&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=ARMG0268XZ59&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
@@ -556,8 +480,8 @@ Athena OS</a>
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
  <!--  <tr>
-    <td><p align="center"><a href="https://github.com/ARMGI9854WXZ59?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/ARMGI9854WXZ59/ARMGI9854WXZ59/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/ARMG0268XZ59?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/ARMG0268XZ59/ARMG0268XZ59/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr> -->
  </table>
     
@@ -581,7 +505,7 @@ Athena OS</a>
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
  
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/ARMG0268XZ59/ARMG0268XZ59/main/.images/footer.svg" width="100%">
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
@@ -649,7 +573,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-**ARMGI9854WXZ59/ARMGI9854WXZ59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ARMG0268XZ59/ARMG0268XZ59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
