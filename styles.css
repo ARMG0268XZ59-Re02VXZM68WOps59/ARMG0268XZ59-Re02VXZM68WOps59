@@ -58,20 +58,20 @@ nav a:hover {
 
 /* Terminal look */
 .terminal {
-    background-color: rgba(19, 29, 59, 0.1);
+    background-color: rgba(19, 29, 59, 0.2);
     width: 80%;
     max-width: 1000px;
     min-height: 600px; /* Adjust height to make terminal bigger */
-    border-radius: 10px;
-    box-shadow: 0px 0px 15px rgba(19, 29, 59, 0.5);
+    border-radius: 12px;
+    box-shadow: 0px 0px 16px rgba(19, 29, 59, 0.6);
     animation: floating 5s ease-in-out infinite;
     margin-bottom: 20px; /* Add some spacing under the terminal */
 }
 
 .terminal-header {
     background-color: rgba(19, 29, 59, 0.2);
-    padding: 10px;
-    border-bottom: 1px solid rgba(19, 29, 59, 0.5);
+    padding: 12px;
+    border-bottom: 2px solid rgba(19, 29, 59, 0.6);
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -98,7 +98,7 @@ nav a:hover {
 
 .terminal-body {
     padding: 20px;
-    max-height: 800px; /* Increase the height to allow more content */
+    max-height: 1000px; /* Increase the height to allow more content */
     overflow-y: auto; /* Ensure it scrolls if the content overflows */
 }
 
@@ -127,7 +127,7 @@ a:hover {
 footer {
     text-align: center;
     margin-top: 20px;
-    color: rgba(19, 29, 59, 0.7);
+    color: rgba(19, 29, 59, 0.8);
     font-size: 0.9rem;
 }
 
@@ -149,7 +149,7 @@ footer {
     position: relative;
     width: 100%;
     max-width: 1000px;
-    height: 700px; /* Adjust height to make the iframe bigger */
+    height: 1000px; /* Adjust height to make the iframe bigger */
     overflow: hidden;
     margin: 0 auto; /* Center the iframe */
     padding: 10px;
