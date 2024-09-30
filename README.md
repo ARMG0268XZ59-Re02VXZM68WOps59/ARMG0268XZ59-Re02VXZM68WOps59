@@ -292,40 +292,34 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 <p align="middle">
 <b> My GitHub Stats </b>
 
+<p align="middle">
 <a href="http://www.github.com/ARMG0268XZ59"><img src="https://github-readme-stats.vercel.app/api?username=ARMG0268XZ59&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="ARMG0268XZ59's GitHub stats" /></a>
-
 </p>
                       
 <p align="middle">
-  
 <a href="http://www.github.com/ARMG0268XZ59"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=ARMG0268XZ59&stroke=0891b2&background=000000&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
 </p>
 
 <p align="middle">
-  
 <a href="http://www.github.com/ARMG0268XZ59"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ARMG0268XZ59&bg_color=000000&color=0891b2&line=3382ed&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  
 </p>
                       
 <p align="middle">
-  
 <a href="https://github.com/ARMG0268XZ59" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMG0268XZ59&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </p>
 
 <p align="middle">
+<b>Top Repositories</b>
 
-<b>Top Repositories</b><div width="100%" align="center">
+<div width="100%" align="center">
 
 <a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-
 </p>
+</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-
-</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center">
-  <p align="middle">
+<p align="middle">
+<div width="100%" align="center">
   <a href="https://github.com/ARMG0268XZ59/https://github.com/ARMG0268XZ59/ARMG0268XZ59-SpecialsMain" align="left"><img align="left" width="45%" src="https://github-readme- 
      stats.vercel.app/api/pin/?username=ARMG0268XZ59&repo=https://github.com/ARMG0268XZ59/ARMG0268XZ59- 
      SpecialsMain&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
