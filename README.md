@@ -1,3 +1,6 @@
+<p align="middle">
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Mahdi
 ==================================================================================================================================
 
@@ -14,6 +17,10 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 *   🤝  I'm open to collaborating on Everything
 *   ⚡  I'm also a Gamer, Freelancer, Influencer, Artist, Content creator, philanthropist. I love to help everyone. I Love to Research and study about everything such as Universe, Space, Supernatural, Technology, Science, History and so on.
 
+</p>
+
+
+<p align="middle">
 
 <a href="https://www.github.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ARMG0268XZ59?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
@@ -23,6 +30,8 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                 
 <a href="https://www.twitch.tv/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/ARMG0268XZ59?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
+
+</p>
 
 # Skills #
 
