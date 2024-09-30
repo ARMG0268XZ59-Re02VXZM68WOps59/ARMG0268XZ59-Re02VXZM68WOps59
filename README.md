@@ -12,10 +12,16 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 *   🚀  I'm currently working on [My Software](http://ARMG0268XZ59.Github.io/Software)
 *   🧠  I'm learning Cyber Security and Operating System Development
 *   🤝  I'm open to collaborating on Everything
-*   ⚡  I'm also a Gamer, Freelancer, Influencer, Artist, Content creator, philanthropist. I love to help everyone. I Love to Research and study about everything such as Universe, Space, Supernatural, Technology, Science, History and so on.<a href="https://www.github.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ARMG0268XZ59?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ARMG0268XZ59?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
-                /></a><a href="https://www.twitch.tv/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm also a Gamer, Freelancer, Influencer, Artist, Content creator, philanthropist. I love to help everyone. I Love to Research and study about everything such as Universe, Space, Supernatural, Technology, Science, History and so on.
+
+
+<a href="https://www.github.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/ARMG0268XZ59?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+                  
+<a href="https://www.x.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/ARMG0268XZ59?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"  /></a>
+                
+<a href="https://www.twitch.tv/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/ARMG0268XZ59?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 # Skills #
@@ -271,6 +277,8 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                     </a></p>
 
 
+<p align="middle">
+
 # Badges #
 
 <b> My GitHub Stats </b>
@@ -298,8 +306,12 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
   </a>
 </div>
 
+</p>
+
 
 # Support Me #
+
+<p align="middle">
 
 <ul style="list-style-type: none; margin: 0;">
   
@@ -312,6 +324,8 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
   </li>
 
 </ul>
+
+</p>
 
 
 ==============================================================================================================================================================================
