@@ -18,7 +18,7 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                 /></a><a href="https://www.twitch.tv/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/ARMG0268XZ59?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
 
-## Skills 
+# Skills #
 
 <p align="middle">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -133,7 +133,7 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 </p>
 
                     
-## Socials
+# Socials #
                         
 <p align="middle">
 <a href="https://www.behance.com/ARMG0268XZ59" target="_blank" rel="noreferrer">
@@ -273,7 +273,7 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 
 # Badges #
 
-<b>My GitHub Stats</b>
+<b> My GitHub Stats </b>
 
 <a
                       href="http://www.github.com/ARMG0268XZ59"><img src="https://github-readme-stats.vercel.app/api?username=ARMG0268XZ59&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="ARMG0268XZ59's GitHub stats" /></a>
