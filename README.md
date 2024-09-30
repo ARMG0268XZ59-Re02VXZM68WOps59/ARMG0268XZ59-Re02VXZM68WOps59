@@ -1,6 +1,4 @@
 <p align="middle">
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Mahdi
 ==================================================================================================================================
 
@@ -16,35 +14,28 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 *   🧠  I'm learning Cyber Security and Operating System Development
 *   🤝  I'm open to collaborating on Everything
 *   ⚡  I'm also a Gamer, Freelancer, Influencer, Artist, Content creator, philanthropist. I love to help everyone. I Love to Research and study about everything such as Universe, Space, Supernatural, Technology, Science, History and so on.
-
 </p>
 
 
 <p align="middle">
-
 <a href="https://www.github.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ARMG0268XZ59?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
-
 </p>
                   
 <p align="middle">
-
 <a href="https://www.x.com/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ARMG0268XZ59?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"  /></a>
-
 </p>
                 
 <p align="middle">
-
 <a href="https://www.twitch.tv/ARMG0268XZ59" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/ARMG0268XZ59?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
-
 </p>
 
 
+<p align="middle">
 # Skills #
 
-<p align="middle">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -156,11 +147,10 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
-                    
-# Socials #
-                        
+
 <p align="middle">
-  
+# Socials #
+
 <a href="https://www.behance.com/ARMG0268XZ59" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
@@ -294,15 +284,13 @@ I'm a very young person, passionate about Technology. I'm a student, recently gr
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture>
                     </a>
-                    
 </p>
 
 
+<p align="middle">
 # Badges #
 
 <b> My GitHub Stats </b>
-
-<p align="middle">
 
 <a href="http://www.github.com/ARMG0268XZ59"><img src="https://github-readme-stats.vercel.app/api?username=ARMG0268XZ59&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="ARMG0268XZ59's GitHub stats" /></a>
 
@@ -344,25 +332,25 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ARMG0268XZ59&stroke=
   </a>
   </p>
 </div>
+</p>
 
 
+<p align="middle">
 # Support Me #
 
 <ul style="list-style-type: none; margin: 0;">
-  
   <li style="display: inline-block; margin-right: 0.25rem;">    
   <p align="middle">
   <a href="https://www.buymeacoffee.com/ARMG0268XZ59"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
   </p>
   </li>
-  
   <li style="display: inline-block; margin-right: 0.25rem;">
   <p align="middle">
   <a href="https://www.ko-fi.com/ARMG0268XZ59"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
   </p>
   </li>
-
 </ul>
+</p>
 
 
 ==============================================================================================================================================================================
